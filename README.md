@@ -7,7 +7,7 @@ This is chrome based extension that will change the title of Grinnell's Catalogu
 
 2. Open Google Chrome and go to `chrome://extensions/`.
 
-3. Enable "Developer mode" by toggling the switch in the top right corner.
+3. Enable "Developer mode" by toggling the switch in the middle left corner.
 
 4. Click on the "Load unpacked" button.
 
